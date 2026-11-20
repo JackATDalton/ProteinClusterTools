@@ -4,3 +4,9 @@ tmp/
 __pycache__
 commands_record_LacI
 debug/
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+*.FCBak
